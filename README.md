@@ -10,6 +10,7 @@ Key files:
 - `processing_custom.ipynb`: Feature extraction with DNN with Pitch and Formants
 
 # Relevant Links
+* Link to our Writeup with Analysis: [Writeup](https://docs.google.com/document/d/19XYDPb9C1DT37lbCai3oY-FLsgp2-MdCoqMrnzVDofI/edit?usp=sharing)
 * Link to Dataset: [Hugging Face](https://huggingface.co/datasets/simon3000/genshin-voice)
 * Link to Processed Training Data with Wav2Vec2: [X.csv](https://drive.google.com/file/d/1aMqL2mr9FmrDFtpVe6CoIwlpG33ZJ-XN/view?usp=sharing)
 * Link to Character Voice Folders: [Characters.zip](https://drive.google.com/file/d/1q3AdK38yMUIf4CRcbGazdCUVDl8n2RNB/view)
