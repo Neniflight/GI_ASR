@@ -1,5 +1,5 @@
-# GI_ASR
-This model will figure out based on your file, which character sounds the most similar to yours
+# Genshin Impact Character Voice Model (ASR)
+Model aiming to identify and differentiate Genshin Impact character voices, and be able to predict which Genshin character has the most similar voice to that in an uploaded file.
 
 # Relevant Links
 * Link to Dataset: [Hugging Face](https://huggingface.co/datasets/simon3000/genshin-voice)
