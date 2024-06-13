@@ -6,7 +6,7 @@ Key files:
 - `preprocessing.ipynb`
 - `processing+nn.ipynb`: Feature extraction with Deep Neural Networks
 - `processing_lr.ipynb`: Feature extraction with Logistic Regression
-- `processing_lr.ipynb`: Feature extraction with MFCC's
+- `processing_mfcc.ipynb`: Feature extraction with MFCC's
 
 # Relevant Links
 * Link to Dataset: [Hugging Face](https://huggingface.co/datasets/simon3000/genshin-voice)
